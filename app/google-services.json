@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310526691267",
+    "project_id": "sless-e5714",
+    "storage_bucket": "sless-e5714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310526691267:android:f5232d055226050a861f76",
+        "android_client_info": {
+          "package_name": "app.projects.stressless_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArYdtuj4dFGl_-BEx-U99QnONyKTQRUsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
